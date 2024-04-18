@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(90deg, #08609E, #1D9BDD, #2AAAB8);
+    
+}
+
+main{
+
+    background-color: white;
+    /*margin: auto;*/
+    width: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 20px 20px 20px #0869a6;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #0869a6;
+    text-shadow: 5px 5px 5px #f0eeee;
+
+}
+
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h2{
+    color: rgb(7, 143, 233)
+}
