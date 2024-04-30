@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(90deg, #08609E, #1D9BDD, #2AAAB8);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+#SetorID{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: green;
+}
+
+
